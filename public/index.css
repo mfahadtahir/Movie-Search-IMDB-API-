@@ -1,0 +1,20 @@
+#result {
+    background: #922123 !important;
+    /* text-align: center; */
+    /* padding-top: 30px; */
+}
+
+ #query {
+    /* width: 680px; */
+    /* height: 30px; */
+    /* padding-left: 10px; */
+    border: 2px solid black !important;
+    /* border-radius: 10px; */
+}
+
+/* #search {
+    width: 170px;
+    height: 34px;
+    border: 2px solid black;
+    border-radius: 10px;
+} */
